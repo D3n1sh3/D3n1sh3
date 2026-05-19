@@ -1,16 +1,31 @@
-## Hi there 👋
+# ✨ Hola, soy Denisse ✨
 
-<!--
-**D3n1sh3/D3n1sh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy una futura desarrolladora web en formación, aprendiendo y desarrollando mis habilidades paso a paso en el mundo de la tecnología. Actualmente estoy enfocada en seguir creciendo y aprendiendo dentro del **bootcamp de Generation**.
 
-Here are some ideas to get you started:
+## 🎓 Estudios
+- Bootcamp de desarrollo web en **Generation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 🛠️ En qué estoy trabajando
+Estoy aprendiendo a crear páginas web, usar control de versiones y desarrollar una base sólida como programadora.
+
+## 🌱 Mi meta
+Convertirme en una desarrolladora capaz de construir proyectos útiles, bien diseñados y con impacto real.
+
+## 📈 Mi enfoque actual
+- Mejorar mi lógica de programación
+- Aprender buenas prácticas de desarrollo
+- Construir proyectos paso a paso
+- No rendirme ante los errores
+
+---
+⭐ Gracias por visitar mi perfil.
+
+
