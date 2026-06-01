@@ -25,7 +25,15 @@ Convertirme en una desarrolladora capaz de construir proyectos útiles, bien dis
 - Construir proyectos paso a paso
 - No rendirme ante los errores
 
+## 👩‍💻 Portafolio
+
+### Proyectos personales
+- Ejercicios API
+- CV HTML
+- Lista de tareas
+
+### Proyecto grupal
+🔗 https://github.com/equipo/Actividadgrupal-ABC
+
 ---
 ⭐ Gracias por visitar mi perfil.
-
-
