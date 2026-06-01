@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(180, 187, 211);
+    text-align: center;
+    padding: 20px;
+    color: rgb(73, 74, 75);
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(62, 65, 245);
+    color: aliceblue;
+    border: none;
+    margin-top: 10px;
+}
+
+img {
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

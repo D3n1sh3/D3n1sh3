@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(140, 171, 238);
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#usuario{
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+ul {
+    font-size: 18px;
+}
